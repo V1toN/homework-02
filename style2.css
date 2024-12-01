@@ -1,0 +1,25 @@
+.profile {
+  text-align: center;
+}
+.profile img {
+  width: 100px;
+  height: 100px;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+.pone {
+  font-weight: bold;
+}
+.spanone {
+  font-weight: 400;
+}
+.container {
+  background-color: plum;
+}
+.spantwo {
+  background-color: bisque;
+}
